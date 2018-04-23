@@ -1,0 +1,210 @@
+{
+    "Qt5Cored.dll": {
+        "isdir": false,
+        "sha256": "0adf120d818049aa9a416d671cf8816fdd1fc7923e9df379f7eb29c2c53391a5",
+        "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Qt5Cored.dll"
+    },
+    "Qt5Guid.dll": {
+        "isdir": false,
+        "sha256": "287ed73169cb8924318dcb9c46df503d345a82e0ea5ffab478240b7801baa3ed",
+        "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Qt5Guid.dll"
+    },
+    "Qt5Svgd.dll": {
+        "isdir": false,
+        "sha256": "45424fa27b1047e14108d2e35de5fa51277c82dead6fe772c4415bc832c3a527",
+        "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Qt5Svgd.dll"
+    },
+    "Qt5Widgetsd.dll": {
+        "isdir": false,
+        "sha256": "dbd73dadc76a443fa3e7c1b3c02e4a1f3138762d110f710a6cee097f126875e7",
+        "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Qt5Widgetsd.dll"
+    },
+    "d3dcompiler_47.dll": {
+        "isdir": false,
+        "sha256": "d628564fbd63f394ccd575df7e8f62dd2de41a548b7cf22f1f40c8271a34190a",
+        "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/d3dcompiler_47.dll"
+    },
+    "encrypt.fne": {
+        "isdir": false,
+        "sha256": "688faf42c702ebebe09328ee16971475c0c0d1f6f486c13fdb43aa031d87d11c",
+        "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/encrypt.fne"
+    },
+    "iconengines": {
+        "isdir": true,
+        "qsvgicon.dll": {
+            "isdir": false,
+            "sha256": "2b8b512a61fa69982b36affb8a9a6ee32c7f02b9ecda7c08511f018115c12c6a",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/iconengines/qsvgicon.dll"
+        }
+    },
+    "imageformats": {
+        "isdir": true,
+        "qdds.dll": {
+            "isdir": false,
+            "sha256": "263c7a563c8fcab892da9daedccd18c55c46ad95ee6a646d9d10bb20e2b55f22",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/imageformats/qdds.dll"
+        },
+        "qgif.dll": {
+            "isdir": false,
+            "sha256": "cfe5372e7d919dc2a77c5026a3b66b56950a62c46941c4ae433202f7710fdccc",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/imageformats/qgif.dll"
+        },
+        "qicns.dll": {
+            "isdir": false,
+            "sha256": "5364ef71af65ec6bb29fd1ea85bfeb9b3182942c1951e4b68f9b1e2ed86930aa",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/imageformats/qicns.dll"
+        },
+        "qico.dll": {
+            "isdir": false,
+            "sha256": "d488ceb7479de70fa45efedd82abb955691a7706e4ba5b37201d62fba88948bb",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/imageformats/qico.dll"
+        },
+        "qjpeg.dll": {
+            "isdir": false,
+            "sha256": "4bf6176b962419a253a797dfa3100484fb72f28e221be5508f2308d223d2f199",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/imageformats/qjpeg.dll"
+        },
+        "qsvg.dll": {
+            "isdir": false,
+            "sha256": "0806c80dfe61d8b12cb605e4f49c46cf927469eccd5a0460c6bef0ddd21c8fd8",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/imageformats/qsvg.dll"
+        },
+        "qtga.dll": {
+            "isdir": false,
+            "sha256": "ae634c439d3ab5fd921ce14cb046803a91e78acbea9c2eee333be5da13186a0b",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/imageformats/qtga.dll"
+        },
+        "qtiff.dll": {
+            "isdir": false,
+            "sha256": "b17030894d3e495e2afeb11e8087e27a3282eec30f12debd477e12c09d3f968e",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/imageformats/qtiff.dll"
+        },
+        "qwbmp.dll": {
+            "isdir": false,
+            "sha256": "41971d0daf344c15dbc198cc8a7f75c91a4282a5a96e1de866852967addc62d8",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/imageformats/qwbmp.dll"
+        },
+        "qwebp.dll": {
+            "isdir": false,
+            "sha256": "39f371deb0ad13780485a8fd8ae6dafe6207078fc895da9ce724d938bc4b5e79",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/imageformats/qwebp.dll"
+        }
+    },
+    "isdir": true,
+    "libEGL.dll": {
+        "isdir": false,
+        "sha256": "8179617c730bd16ff2e627ecc88f3fddfaa1417bd9027dfb2529301f2cc291d3",
+        "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/libEGL.dll"
+    },
+    "libGLESV2.dll": {
+        "isdir": false,
+        "sha256": "e7f51141e5fdb4a0435b76eb95768121ff75bb1d04d7b8df0a0141f3e4ae515c",
+        "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/libGLESV2.dll"
+    },
+    "opengl32sw.dll": {
+        "isdir": false,
+        "sha256": "27a431d810ae895c2a8f8b9d7d1b41534761fad0695354b71f019ebfe309523e",
+        "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/opengl32sw.dll"
+    },
+    "platforms": {
+        "isdir": true,
+        "qwindows.dll": {
+            "isdir": false,
+            "sha256": "58539ec242defcfed29dcbdaad94ee7838cbbf769572157a2bb08c2ee1e37da4",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/platforms/qwindows.dll"
+        }
+    },
+    "translations": {
+        "isdir": true,
+        "qt_ca.qm": {
+            "isdir": false,
+            "sha256": "6af2c1bc7596f7204a8f34e5b7199a9696faadcd1bc6f7ffd9bc988db3c87205",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/translations/qt_ca.qm"
+        },
+        "qt_cs.qm": {
+            "isdir": false,
+            "sha256": "6862ce2bbffe5171dcc67b046e5ae6e2e9984c3e981d64b7fbd4a1fc4763a61e",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/translations/qt_cs.qm"
+        },
+        "qt_de.qm": {
+            "isdir": false,
+            "sha256": "b949244ed89fed782c6e54d0e50fd712323eeea016f777e5295546c0af626e01",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/translations/qt_de.qm"
+        },
+        "qt_en.qm": {
+            "isdir": false,
+            "sha256": "307cef95dd5b36ff215055d427e1885b7fc3650c9224cf76d63056545996ff60",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/translations/qt_en.qm"
+        },
+        "qt_fi.qm": {
+            "isdir": false,
+            "sha256": "3f876e056610e3514632fddc3e2aa006cd3f743f4fbb3c6cad2915b614d141a1",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/translations/qt_fi.qm"
+        },
+        "qt_fr.qm": {
+            "isdir": false,
+            "sha256": "7d40eaa90d9094ce548a41482b496ec494396a82361d4f3d031756118ed042d2",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/translations/qt_fr.qm"
+        },
+        "qt_he.qm": {
+            "isdir": false,
+            "sha256": "d7836f59ef79314db1f4ab6b76abc283ab2b5d4942d2bc129d620e913e294153",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/translations/qt_he.qm"
+        },
+        "qt_hu.qm": {
+            "isdir": false,
+            "sha256": "d3c07628b68a39691b1ea9175a9cd151489cbc731a57a66c865d62167a5ec0f2",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/translations/qt_hu.qm"
+        },
+        "qt_it.qm": {
+            "isdir": false,
+            "sha256": "54bdd9856e6007b443f553f03b5b83bca9f08595bf18d3293663517f04e89333",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/translations/qt_it.qm"
+        },
+        "qt_ja.qm": {
+            "isdir": false,
+            "sha256": "f0ee03c9936b459cc9bdf184df9b7efad98d40ab7b99e89166a42e019a0ec0ea",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/translations/qt_ja.qm"
+        },
+        "qt_ko.qm": {
+            "isdir": false,
+            "sha256": "0572429dc3c7f4055343a3f4e28463c505df1c97211d1fb6a7430c145b62a9f2",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/translations/qt_ko.qm"
+        },
+        "qt_lv.qm": {
+            "isdir": false,
+            "sha256": "257d1201da42c19c34ea0a5f0dfbba3d438fc273a7d5b5b97cd13196e963ed28",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/translations/qt_lv.qm"
+        },
+        "qt_pl.qm": {
+            "isdir": false,
+            "sha256": "14a7e070a28b73fc1bebbfc57f5f13442cf67a5311e3b8989ed2685d845dc0ba",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/translations/qt_pl.qm"
+        },
+        "qt_ru.qm": {
+            "isdir": false,
+            "sha256": "a45992edbb08e9d0921b5389f6038526ec8d9e401e1cff3eae98539521e7dc22",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/translations/qt_ru.qm"
+        },
+        "qt_sk.qm": {
+            "isdir": false,
+            "sha256": "0144819728779d0861859f5451cd5588b2f2def611edeb77b38655d62bdbdf86",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/translations/qt_sk.qm"
+        },
+        "qt_uk.qm": {
+            "isdir": false,
+            "sha256": "fd4a436733637cb4759cdb024f0c7d891e8075be46f79796077180a9ff488d27",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/translations/qt_uk.qm"
+        }
+    },
+    "vcredist_x86.exe": {
+        "isdir": false,
+        "sha256": "c46cfb8694a89183ad014f02b6ff0e347d7bedb726c13e3de784bb0a5d5f2914",
+        "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/vcredist_x86.exe"
+    },
+    "zlibwapi.dll": {
+        "isdir": false,
+        "sha256": "4f0e9e40e4368bf52abafb15b221eecba79048ef6190e6f3e71f9ab5b6185d96",
+        "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/zlibwapi.dll"
+    }
+}
