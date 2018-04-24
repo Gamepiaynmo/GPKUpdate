@@ -1,24 +1,49 @@
 {
     "childs": {
-        "Qt5Cored.dll": {
+        "DAT Editor.exe": {
             "isdir": false,
-            "sha256": "0adf120d818049aa9a416d671cf8816fdd1fc7923e9df379f7eb29c2c53391a5",
-            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Qt5Cored.dll"
+            "sha256": "0cfd6fd0b41ab2acf52585c0e7db3f2625d9a2d3606a9d288b064a714bf8de5c",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/DAT Editor.exe"
         },
-        "Qt5Guid.dll": {
+        "Dynamic Patch.dll": {
             "isdir": false,
-            "sha256": "287ed73169cb8924318dcb9c46df503d345a82e0ea5ffab478240b7801baa3ed",
-            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Qt5Guid.dll"
+            "sha256": "6061ba97106e9c3869835c8717c24de8a1a5919deab398c0995e24e1a0bcc9bd",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Dynamic Patch.dll"
         },
-        "Qt5Svgd.dll": {
+        "GPK Generator.exe": {
             "isdir": false,
-            "sha256": "45424fa27b1047e14108d2e35de5fa51277c82dead6fe772c4415bc832c3a527",
-            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Qt5Svgd.dll"
+            "sha256": "1b444bd93ce27eac487a8943f4569bea08682e567f145b2de67a9f68d5d22170",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/GPK Generator.exe"
         },
-        "Qt5Widgetsd.dll": {
+        "Patch Manager.exe": {
             "isdir": false,
-            "sha256": "dbd73dadc76a443fa3e7c1b3c02e4a1f3138762d110f710a6cee097f126875e7",
-            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Qt5Widgetsd.dll"
+            "sha256": "15a2a9736e756b9c9b3d60ff5cefa6cb4007cca5e9a99a4c543c49f5016d5d57",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Patch Manager.exe"
+        },
+        "Qt5Core.dll": {
+            "isdir": false,
+            "sha256": "0e6ec27c202d8ed04d902e3983cd3560e540691b2743aa462286bdff63042fce",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Qt5Core.dll"
+        },
+        "Qt5Gui.dll": {
+            "isdir": false,
+            "sha256": "71f63bd32d22d2b8813dfe4d15bddbc4025860f2c87a041c4aed1da8f8f9d426",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Qt5Gui.dll"
+        },
+        "Qt5Svg.dll": {
+            "isdir": false,
+            "sha256": "9493a3ab3d194318a12a0c372c16ee19b9259859112c739e9c36a70a9125ee0f",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Qt5Svg.dll"
+        },
+        "Qt5Widgets.dll": {
+            "isdir": false,
+            "sha256": "18c10aea5007d98ace3d84052051c180074d8ff4f0d8d9b4edb4cc82c1e30fd1",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Qt5Widgets.dll"
+        },
+        "Updater.exe": {
+            "isdir": false,
+            "sha256": "52dd37ae63964e882288b424e2062dfe96141b3f9de373af70ca2c8db9fcf7d7",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Updater.exe"
         },
         "d3dcompiler_47.dll": {
             "isdir": false,
@@ -209,6 +234,11 @@
             "isdir": false,
             "sha256": "c46cfb8694a89183ad014f02b6ff0e347d7bedb726c13e3de784bb0a5d5f2914",
             "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/vcredist_x86.exe"
+        },
+        "wget.exe": {
+            "isdir": false,
+            "sha256": "32e9cdc62dd035dfd49da7eb3351829fdee95aa6bdb5663ab40f3911ea7cece1",
+            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/wget.exe"
         },
         "zlibwapi.dll": {
             "isdir": false,
