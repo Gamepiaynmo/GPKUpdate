@@ -17,7 +17,7 @@
         },
         "Patch Manager.exe": {
             "isdir": false,
-            "sha256": "3a80d8eac3f812e05a778975e119f3cdb2ee5ec6d0460dc80ea536148af912a8",
+            "sha256": "09aea9ad0d417a267f61c622b3e4cfdd5e711277451c6151832f36371b23ac82",
             "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Patch Manager.exe"
         },
         "Qt5Core.dll": {
@@ -42,7 +42,7 @@
         },
         "Updater.exe": {
             "isdir": false,
-            "sha256": "52dd37ae63964e882288b424e2062dfe96141b3f9de373af70ca2c8db9fcf7d7",
+            "sha256": "83da3d45e1532cdf989875b5faa4b972be753842c2e82b92bf34d7842090bd2c",
             "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Updater.exe"
         },
         "d3dcompiler_47.dll": {
