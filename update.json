@@ -2,7 +2,7 @@
     "childs": {
         "DAT Editor.exe": {
             "isdir": false,
-            "sha256": "0cfd6fd0b41ab2acf52585c0e7db3f2625d9a2d3606a9d288b064a714bf8de5c",
+            "sha256": "59c1bfbe2d34c1c201c7690368eb1f306a706b8e3d5d1e7edf00251006e98d89",
             "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/DAT Editor.exe"
         },
         "Dynamic Patch.dll": {
@@ -14,11 +14,6 @@
             "isdir": false,
             "sha256": "1b444bd93ce27eac487a8943f4569bea08682e567f145b2de67a9f68d5d22170",
             "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/GPK Generator.exe"
-        },
-        "GPK.ini": {
-            "isdir": false,
-            "sha256": "dd7398c80ccf82974d52c014d911c2c9cf22dfd89e2f1ef68063a4ef3587a040",
-            "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/GPK.ini"
         },
         "Patch Manager.exe": {
             "isdir": false,
