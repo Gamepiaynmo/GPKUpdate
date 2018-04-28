@@ -7,7 +7,7 @@
         },
         "Dynamic Patch.dll": {
             "isdir": false,
-            "sha256": "dabe663a4d79104cb95a2b302abd8e73cc1ade68356d08c81096084f2de9dea0",
+            "sha256": "2e950985080377bbf21e944fe5e4a2db427ec4513118734f3cba56ae2529fa7d",
             "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Dynamic Patch.dll"
         },
         "GPK Generator.exe": {
@@ -17,7 +17,7 @@
         },
         "Patch Manager.exe": {
             "isdir": false,
-            "sha256": "0fee817b0aab63fef3c94aa1b9e430954dc9d58e2d07c392d2dec1452d9fdc53",
+            "sha256": "07e519e118f2d25396f9914db5a1a11b0d302b6cd2228a6dfbbf8459110b2c1e",
             "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Patch Manager.exe"
         },
         "Qt5Core.dll": {
