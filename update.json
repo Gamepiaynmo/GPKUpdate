@@ -17,7 +17,7 @@
         },
         "Patch Manager.exe": {
             "isdir": false,
-            "sha256": "07e519e118f2d25396f9914db5a1a11b0d302b6cd2228a6dfbbf8459110b2c1e",
+            "sha256": "df0f7e8259590e8bd08766ab0f988486a9113d4c927762bd50ce96c257443b56",
             "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Patch Manager.exe"
         },
         "Qt5Core.dll": {
