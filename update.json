@@ -2,7 +2,7 @@
     "childs": {
         "DAT Editor.exe": {
             "isdir": false,
-            "sha256": "59c1bfbe2d34c1c201c7690368eb1f306a706b8e3d5d1e7edf00251006e98d89",
+            "sha256": "0a9308a2f3104d712c7f0d0d1ee0af57b5ddc05e43b33ee84b4402e4ad1556e0",
             "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/DAT Editor.exe"
         },
         "Dynamic Patch.dll": {
