@@ -7,7 +7,7 @@
         },
         "Dynamic Patch.dll": {
             "isdir": false,
-            "sha256": "44f7fdefbdfa7e6a9b5937db4ee3ef3b091a64fa2763feec0c85f847fe41d8d9",
+            "sha256": "db01a7a8da21e142de1f053b6d2c8ae2f8e013cfe13985251970a2c74aedd01f",
             "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/Dynamic Patch.dll"
         },
         "FAQ.txt": {
@@ -17,7 +17,7 @@
         },
         "GPK Generator.exe": {
             "isdir": false,
-            "sha256": "cdcaa9fbe05ce424116120587a1d0562a993d7c6507d838eb5628b6df87afbb9",
+            "sha256": "2aae710573f052a9fd9e352d0edc696a0c68550125b0a76dfbbbabdccc899ee7",
             "url": "https://raw.githubusercontent.com/Gamepiaynmo/GPKUpdate/master/Files/GPK Generator.exe"
         },
         "Patch Manager.exe": {
