@@ -17,7 +17,7 @@
         },
         "Patch Manager.exe": {
             "isdir": false,
-            "sha256": "8ac6546c0609be7174edf3737ad8815cea6f2e21bba900062c3c84f2a6717655",
+            "sha256": "c88ce98f3b9b42552697c3edfa1744361d5c6e2f7b0663627f65cab977ab8239",
             "url": "http://update.thacg.cn/Files/Patch Manager.exe"
         },
         "Qt5Core.dll": {
@@ -257,7 +257,7 @@
         },
         "version.txt": {
             "isdir": false,
-            "sha256": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d",
+            "sha256": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683",
             "url": "http://update.thacg.cn/Files/version.txt"
         },
         "wget.exe": {
