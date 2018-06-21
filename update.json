@@ -7,7 +7,7 @@
         },
         "Dynamic Patch.dll": {
             "isdir": false,
-            "sha256": "96c91e4ace872b6473f898c87a7f715e399cc7bdf290532e061ff8979adbd4c1",
+            "sha256": "ed05b8b05a2dd41a7bb168e8fe4e9c5b55be6c2e4122d906c1a774656b455f4e",
             "url": "http://update.thacg.cn/Files/Dynamic Patch.dll"
         },
         "GPK Generator.exe": {
@@ -257,7 +257,7 @@
         },
         "version.txt": {
             "isdir": false,
-            "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+            "sha256": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
             "url": "http://update.thacg.cn/Files/version.txt"
         },
         "wget.exe": {
