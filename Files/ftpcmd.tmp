@@ -1,7 +1,6 @@
 open update.thacg.cn 13978
 thacgcn
 thacgcn1998031,
-bye
 cd update
 cd Files
 put "DAT Editor.exe" "DAT Editor.exe"
@@ -10,3 +9,4 @@ put "GPK Generator.exe" "GPK Generator.exe"
 put "Patch Manager.exe" "Patch Manager.exe"
 put "Updater.exe" "Updater.exe"
 put "version.txt" "version.txt"
+bye
