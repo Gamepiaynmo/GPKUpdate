@@ -2,22 +2,22 @@
     "childs": {
         "DAT Editor.exe": {
             "isdir": false,
-            "sha256": "d11c790a80eca1e574011a4e6644a5adccf37cc2c574871c77c30a3490cfa375",
+            "sha256": "fe293a4d93aa9bb20c19f830666be54a8852f1623771446cdb57cbe12cd989ba",
             "url": "http://update.thacg.cn/Files/DAT Editor.exe"
         },
         "Dynamic Patch.dll": {
             "isdir": false,
-            "sha256": "e023a17ffde436aaf295328e304411b0f5965e2b70affd087cb3c31dddc2a666",
+            "sha256": "ed99ac2da5b4211fd320c64d3b8d3ccb625a032d8343153a66c6680199fde2a0",
             "url": "http://update.thacg.cn/Files/Dynamic Patch.dll"
         },
         "GPK Generator.exe": {
             "isdir": false,
-            "sha256": "692168063688c9edbf0d6aabaf6f3d8b509027568ce10ece727cc683bde7fc3f",
+            "sha256": "42d179ac8778a01e47cec2b4d0f5aa31111328dd415bc32a68399cb320b534f0",
             "url": "http://update.thacg.cn/Files/GPK Generator.exe"
         },
         "Patch Manager.exe": {
             "isdir": false,
-            "sha256": "da6ae81b80c94b1aeb05890e6d065e7e3242b1e06813badd82eda0844cf831f2",
+            "sha256": "689160de82b857fa997b809a47eada274ac35bcf2007f77267d9eabb983211ae",
             "url": "http://update.thacg.cn/Files/Patch Manager.exe"
         },
         "Qt5Core.dll": {
@@ -47,7 +47,7 @@
         },
         "Updater.exe": {
             "isdir": false,
-            "sha256": "949c0ac83f9d380dce9c7927a76c362a88064c7ae20eca6f551a0806b313392e",
+            "sha256": "e9c25300b837663b6d5a8817b129818f1d80da5dd44bc438f8935f6a0d0c98f8",
             "url": "http://update.thacg.cn/Files/Updater.exe"
         },
         "bearer": {
@@ -257,7 +257,7 @@
         },
         "version.txt": {
             "isdir": false,
-            "sha256": "2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3",
+            "sha256": "19581e27de7ced00ff1ce50b2047e7a567c76b1cbaebabe5ef03f7c3017bb5b7",
             "url": "http://update.thacg.cn/Files/version.txt"
         },
         "wget.exe": {
