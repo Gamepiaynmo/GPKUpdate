@@ -2,22 +2,22 @@
     "childs": {
         "DAT Editor.exe": {
             "isdir": false,
-            "sha256": "3e868aec6beafee8c98caa724c32983064f1881ff06a62eed75965aada6533bc",
+            "sha256": "98b22a3fa713b7862d20b057d312c99da522e3f23c1f886f555f0de5d45e9018",
             "url": "http://update.thacg.cn/Files/DAT Editor.exe"
         },
         "Dynamic Patch.dll": {
             "isdir": false,
-            "sha256": "3dd792b42209254b0b2062224c275510e09dc57e35bd21f112e1d15a78be83b7",
+            "sha256": "3041b260e5d35b3ae377e4d2ee438b1eaf3fe57e661cc8c60b1e390e6e32cc36",
             "url": "http://update.thacg.cn/Files/Dynamic Patch.dll"
         },
         "GPK Generator.exe": {
             "isdir": false,
-            "sha256": "3a24e9b69279823b9987b538e92720d1bb368c56e4dcbebdb7782d361cf85cd5",
+            "sha256": "0680793251e0a5c03bb1ac841fc959ddfd82833b33f4c8a32e8eb629dc388909",
             "url": "http://update.thacg.cn/Files/GPK Generator.exe"
         },
         "Patch Manager.exe": {
             "isdir": false,
-            "sha256": "d26163088d86c4e4502ca0fac9481cc93b3dbc9c02ff85958702375a75db0c00",
+            "sha256": "e4e7c8f257b7da726cb7c2d7b6a0e3f0beb49704799bdc6d3e2b6d3ffbdb77a5",
             "url": "http://update.thacg.cn/Files/Patch Manager.exe"
         },
         "Qt5Core.dll": {
@@ -257,7 +257,7 @@
         },
         "version.txt": {
             "isdir": false,
-            "sha256": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5",
+            "sha256": "4fc82b26aecb47d2868c4efbe3581732a3e7cbcc6c2efb32062c08170a05eeb8",
             "url": "http://update.thacg.cn/Files/version.txt"
         },
         "wget.exe": {
