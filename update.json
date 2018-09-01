@@ -17,7 +17,7 @@
         },
         "Patch Manager.exe": {
             "isdir": false,
-            "sha256": "e0eda34496885b985f081ce45c205a25eb1d0f6d6e62bc6267e8122468161efb",
+            "sha256": "4a96f58cb3e05c236804ef2570778b3b89cd4a152cdccacf1822dd29bb5d0726",
             "url": "http://300gpk.site/Files/Patch Manager.exe"
         },
         "Qt5Core.dll": {
@@ -45,10 +45,10 @@
             "sha256": "18c10aea5007d98ace3d84052051c180074d8ff4f0d8d9b4edb4cc82c1e30fd1",
             "url": "http://300gpk.site/Files/Qt5Widgets.dll"
         },
-        "Updater.exe": {
+        "Updater.exe.new": {
             "isdir": false,
-            "sha256": "e9c25300b837663b6d5a8817b129818f1d80da5dd44bc438f8935f6a0d0c98f8",
-            "url": "http://300gpk.site/Files/Updater.exe"
+            "sha256": "b1e98052ae31d094fae0383ac502dc92d55bbc2e0fd9ec147a09ec486bbb0af7",
+            "url": "http://300gpk.site/Files/Updater.exe.new"
         },
         "bearer": {
             "childs": {
