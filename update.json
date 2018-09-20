@@ -2,7 +2,7 @@
     "childs": {
         "DAT Editor.exe": {
             "isdir": false,
-            "sha256": "b7b6cab0c3e4402644b6a0e0eb04e396621d7e560a263e08a288290db222e06d",
+            "sha256": "43023f010fe3583923cdf3b34d20b4cf63525cea5b460b012e3f9886473bb047",
             "url": "http://300gpk.site/Files/DAT Editor.exe"
         },
         "Dynamic Patch.dll": {
@@ -257,7 +257,7 @@
         },
         "version.txt": {
             "isdir": false,
-            "sha256": "6f4b6612125fb3a0daecd2799dfd6c9c299424fd920f9b308110a2c1fbd8f443",
+            "sha256": "785f3ec7eb32f30b90cd0fcf3657d388b5ff4297f2f9716ff66e9b69c05ddd09",
             "url": "http://300gpk.site/Files/version.txt"
         },
         "wget.exe": {
