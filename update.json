@@ -7,7 +7,7 @@
         },
         "Dynamic Patch.dll": {
             "isdir": false,
-            "sha256": "c037fc3e43ea60c056846b80e3349fcbdd67cd8f613cf66a633d2fadfa97c90d",
+            "sha256": "7bd7570046788a9f36ac494064e3801093c18e6ba1a261452fe47eeaf5b150e3",
             "url": "http://300gpk.site/Files/Dynamic Patch.dll"
         },
         "GPK Generator.exe": {
@@ -17,7 +17,7 @@
         },
         "Patch Manager.exe": {
             "isdir": false,
-            "sha256": "4a96f58cb3e05c236804ef2570778b3b89cd4a152cdccacf1822dd29bb5d0726",
+            "sha256": "5713f96fecff7defc9f864536334fc90c24243ecdbf1c00e63e7005c4918f6db",
             "url": "http://300gpk.site/Files/Patch Manager.exe"
         },
         "Qt5Core.dll": {
@@ -257,7 +257,7 @@
         },
         "version.txt": {
             "isdir": false,
-            "sha256": "b17ef6d19c7a5b1ee83b907c595526dcb1eb06db8227d650d5dda0a9f4ce8cd9",
+            "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
             "url": "http://300gpk.site/Files/version.txt"
         },
         "wget.exe": {
