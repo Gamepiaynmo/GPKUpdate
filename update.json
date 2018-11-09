@@ -7,7 +7,7 @@
         },
         "Dynamic Patch.dll": {
             "isdir": false,
-            "sha256": "6d8fb3b6fad09ce30fa859a38305c7cbed890491f8f885ff9f831e2ec3d3bfb7",
+            "sha256": "a3b82496cd09605c60f0f7e5a322cf9cf8c341c2abf8651bb50ed16c40571897",
             "url": "https://300gpk.site/Files/Dynamic Patch.dll"
         },
         "GPK Generator.exe": {
@@ -257,7 +257,7 @@
         },
         "version.txt": {
             "isdir": false,
-            "sha256": "5f9c4ab08cac7457e9111a30e4664920607ea2c115a1433d7be98e97e64244ca",
+            "sha256": "670671cd97404156226e507973f2ab8330d3022ca96e0c93bdbdb320c41adcaf",
             "url": "https://300gpk.site/Files/version.txt"
         },
         "wget.exe": {
