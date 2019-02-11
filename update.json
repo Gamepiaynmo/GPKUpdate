@@ -17,7 +17,7 @@
         },
         "Patch Manager.exe": {
             "isdir": false,
-            "sha256": "64b480dc2168a55b63685cb4657f89be6f830806bac774169e97f3ac64db3905",
+            "sha256": "2c3307e67f861ff2c7f6f234b5b3dfe4d2f93d05c641f8bb29dc0d0a4ff98fd1",
             "url": "https://300gpk.site/Files/Patch Manager.exe"
         },
         "Qt5Core.dll": {
@@ -257,7 +257,7 @@
         },
         "version.txt": {
             "isdir": false,
-            "sha256": "c6f3ac57944a531490cd39902d0f777715fd005efac9a30622d5f5205e7f6894",
+            "sha256": "86e50149658661312a9e0b35558d84f6c6d3da797f552a9657fe0558ca40cdef",
             "url": "https://300gpk.site/Files/version.txt"
         },
         "wget.exe": {
